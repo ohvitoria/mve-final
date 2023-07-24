@@ -1,0 +1,94 @@
+.logo{
+    width: 300px;
+    height: 300px;
+}
+.cabeçalho{
+    display: inline-flex;
+    
+}
+
+.nome-empresa{
+    margin: 130px;
+    height: 100px;
+}
+
+.texto-inicial{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+
+.monitores-pcs{
+    font-family: 'Tourney', monospace;
+    font-size: 40px;  
+    padding: 10px;
+}
+
+.monitor-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.pc-gamer-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+    
+}
+.fone-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.teclado-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.mouse-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.moletons-camiseta{
+    font-family: 'Tourney', monospace;
+    font-size: 40px;  
+    padding: 10px;
+}
+.moletom-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.calca-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.camiseta-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.bermuda-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.area{
+    font-family: 'Tourney', monospace;
+    font-size: 40px;  
+    padding: 10px;
+}
+.nitendo-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px; 
+}
+.funko-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px; 
+}
+.figure-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+.rodape{
+    font-family: 'Tourney', monospace;
+    font-size: 40px;  
+    padding: 10px;
+}
+.rodape-p{
+    font-family: 'Tourney', monospace;
+    font-size: 35px;
+}
+
